@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Technology News For you</string>
+    <string name="news_image">Imagenews</string>
+    <string name="author">Author</string>
+    <string name="title">Maintitle</string>
+    <string name="News">news</string>
+</resources>
